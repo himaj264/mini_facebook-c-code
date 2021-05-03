@@ -1,4 +1,4 @@
-# mini_facebook-c-code
+# Mini_Facebook-C-code
 # This is a prototype of a mini facebook written in C programmimg language.
 # 1.It allows you to make friends 
 # 2.You can send and receive texts 
